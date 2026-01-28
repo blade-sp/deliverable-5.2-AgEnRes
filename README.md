@@ -1,6 +1,7 @@
-# Farmers Adoption of price risk management tools
+# Behavioral Preferences and Price Risk Management in Agriculture: A Systematic Literature Review
 
-This repository contains the materials of Deliverable 5.2 "Farmers Adoption of price risk management tools" of the [AgEnRes](https://agenres.eu/) project.
+This repository contains the materials for the publication "Behavioral Preferences and Price Risk Management in Agriculture: A Systematic Literature Review".
+This work buils on [Deliverable 5.2 "Farmers Adoption of price risk management tools"](https://agenres.eu/assets/content/AgEnRes_D5.2_Adoption%20of%20price%20risk%20final.pdf) of the [AgEnRes](https://agenres.eu/) project.
 
 ## Project Structure
 
