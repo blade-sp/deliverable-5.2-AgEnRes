@@ -3,6 +3,12 @@
 This repository contains the materials for the publication "Behavioral Preferences and Price Risk Management in Agriculture: A Systematic Literature Review".
 This work buils on [Deliverable 5.2](https://agenres.eu/assets/content/AgEnRes_D5.2_Adoption%20of%20price%20risk%20final.pdf) "Farmers Adoption of price risk management tools" of the [AgEnRes](https://agenres.eu/) project.
 
+## Authors 
+
+Riccardo Spada, Laura Moritz, Simone Cerroni, Jens Rommel, Miranda P.M. Meuwissen, Tobias Dalhaus
+
+Contact: riccardo.spada@wur.nl
+
 ## Project Structure
 
 - **1_data/**

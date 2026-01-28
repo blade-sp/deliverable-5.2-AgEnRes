@@ -1,8 +1,8 @@
-# Paper: "Behavioral Preferences and Price Risk Management:
-#         A Systematic Literature Review"
-# Author: Riccardo Spada | riccardo.spada@wur.nl
-# Affiliation: Business Economics Group, Wageningen University & Research
-# Description: Script for data analysis, figures, and tables replication
+# Script for data analysis, figures, and tables replication
+#
+# Author: Riccardo Spada
+#
+# Contact: riccardo.spada@wur.nl
 
 # set wd if needed
 
