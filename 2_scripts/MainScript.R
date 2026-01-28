@@ -903,8 +903,9 @@ behav_pref_absolute <- ggplot(data = behav_data) +
     color = "black"
   ) +
   scale_y_continuous(
-    expand = expansion(mult = c(0, 0.1)),
-    breaks = seq(-5, 30, by = 5)
+    expand = expansion(mult = c(0, 0)),
+    breaks = seq(-8, 30, by = 2),
+    minor_breaks = seq(-7, 29, by = 2)
   ) +
   coord_flip() +
   labs(x = "", y = "\nNumber of observations") +
@@ -946,9 +947,7 @@ behav_pref_absolute <- ggplot(data = behav_data) +
   ) +
   theme(
     axis.text.y = element_text(size = 10),
-    panel.grid.major.y = element_blank(),
-    panel.grid.minor.y = element_blank(),
-    panel.grid.minor.x = element_blank()
+    panel.grid.major.y = element_blank()
   )
 
 behav_pref_absolute
@@ -1392,7 +1391,8 @@ psych_factor_absolute <- ggplot(data = psych_data) +
   ) +
   scale_y_continuous(
     expand = expansion(mult = c(0, 0.1)),
-    breaks = seq(-4, 20, by = 2)
+    breaks = seq(-4, 20, by = 2),
+    minor_breaks = seq(-5, 19, by = 2)
   ) +
   scale_x_discrete(
     limits = c(
@@ -1504,8 +1504,7 @@ psych_factor_absolute <- ggplot(data = psych_data) +
   ) +
   theme(
     axis.text.y = element_text(size = 10),
-    panel.grid.major.y = element_blank(),
-    panel.grid.minor.x = element_blank()
+    panel.grid.major.y = element_blank()
   )
 
 psych_factor_absolute
