@@ -4,12 +4,12 @@ This repository contains the materials of Deliverable 5.2 "Farmers Adoption of p
 
 ## Project Structure
 
-**1_data/**
+- **1_data/**
     - `IncludedStudies_FinalList.ris`: RIS file of studies inluded in the review 
     - `Data_SLR_BehavPriceRisk.xlsx`: Main data file 
-**2_scripts/** 
+- **2_scripts/** 
     - `Script_SLR_BehavPriceRisk.R`: R script for data analysis 
-**3_results/**: Output folder containing figures and tables
+- **3_results/**: Output folder containing figures and tables
 
 ## How to Run 
 
